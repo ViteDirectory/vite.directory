@@ -58,6 +58,10 @@ const data: FolderData[] = [
         label: "Vite Passport Browser Wallet Extension",
         url: "https://chrome.google.com/webstore/detail/vite-passport/eckbjklobbepbbcklkjjgkkkpdakglmf",
       },
+      {
+        label: "Viterium Wallet",
+        url: "https://viterium.io/",
+      },
     ],
   },
   {
@@ -204,6 +208,10 @@ const data: FolderData[] = [
   {
     title: "Faucets",
     links: [
+      {
+        label: "ViteTokens Faucet",
+        url: "https://vitetokens.cc/index.html",
+      },
       {
         label: "ViNo Discord and Vite Faucet",
         url: "https://discord.com/invite/MMS7Wa6c94",
