@@ -90,6 +90,10 @@ const data: FolderData[] = [
         label: "PancakeSwap",
         url: "https://pancakeswap.finance/swap#/swap?outputCurrency=0x2794dad4077602ed25a88d03781528d1637898b4",
       },
+      {
+        label: "VITCSwap",
+        url: "https://swap.vitc.org/#/app/swap?from=80f3751485e4e8345605&to=5649544520544f4b454e",
+      },
     ],
   },
   {
