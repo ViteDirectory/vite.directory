@@ -247,6 +247,7 @@ const data: FolderData[] = [
       { label: "VitePunks", url: "https://twitter.com/VitePunks" },
       { label: "Vitoge", url: "https://twitter.com/Vitoge_official" },
       { label: "ViCat", url: "https://twitter.com/ViCat_777" },
+      { label: "Vite Spot", url: "https://vitespot.com" },
     ],
   },
   {
