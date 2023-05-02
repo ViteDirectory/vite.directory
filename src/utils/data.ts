@@ -103,6 +103,7 @@ const data: FolderData[] = [
       { label: "ViteBridge", url: "https://bridge-buidl.vite.net/" },
       { label: "Viva staking pools", url: "https://www.vivafi.org/" },
       { label: "BeefStake", url: "https://stake.vitc.org/" },
+      { label: "VinuPay", url: "https://vinu.cash/" },
       {
         label: "Vite Quota Bank",
         url: "https://niklr.github.io/vite-quota-bank",
